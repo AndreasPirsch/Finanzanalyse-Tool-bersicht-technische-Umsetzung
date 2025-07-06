@@ -5,10 +5,10 @@ Dieses Projekt zeigt eine einfache Finanzanalyse mit Power BI Desktop auf Basis 
 ## Inhalt
 
 Das Dashboard enthält:
-- KPI-Karten zu Gesamtumsatz, Gewinn und Verkaufspreis
-- Liniendiagramm: Umsatzentwicklung über Zeit
-- Balkendiagramm: Gewinn nach Produktkategorie
-- Slicer zur Filterung nach Region und Kategorie
+- KPI-Karten zu Verkäufen, Gewinn und Verkaufspreis
+- Liniendiagramm: Gewinne über Zeit
+- Balkendiagramm: Verkäufe nach Land
+- Slicer zur Filterung nach Region 
 
 ## 📸 Vorschau
 
